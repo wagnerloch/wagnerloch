@@ -1,9 +1,10 @@
 ### Hello 👋
-My name is **Wagner Loch**, I have a degree in *Computer Engineering* from the Federal University of Pelotas (UFPel) and I am currently pursuing a *Master's degree in Computer Science* at the same institution.
+My name is **Wagner Loch**, I have a degree in *Computer Engineering* from the Federal University of Pelotas (UFPel) and I am currently pursuing a *PhD in Computer Science* at the same institution. Previously, I obtained my *Master's degree in Computer Science* at UFPel.
+
+I am also a **university professor in Computer Science**, where I teach and research topics related to software development, programming, and computational modeling.
 
 A little more about me:
 
-- 🔭 I am currently working on researching and developing a sensor system to model an equation that can infer about the capacity of classrooms while respecting social distancing protocols during the pandemic.
 - 🌱 I am always learning and testing new programming languages and tools.
 - 👯 I enjoy collaborating and incorporating computer science into other fields. It is very satisfying to see computer science perform complex tasks in a simple way.
 - 🚀 The main technologies (programming languages) I am familiar with are:
@@ -24,13 +25,14 @@ A little more about me:
 
 ======================================================
 
-### Olá 👋
+### **Olá 👋**
 
-Meu nome é **Wagner Loch**, sou graduao em *Engenharia de Computação* pela Universidade Federal de Pelotas (UFPel) e atualmente estou matriculado no programa de *Mestrado em Computação* na mesma instituição.
+Meu nome é **Wagner Loch**, sou graduado em *Engenharia de Computação* pela Universidade Federal de Pelotas (UFPel) e atualmente estou cursando o **Doutorado em Computação** na mesma instituição. Anteriormente, obtive o **Mestrado em Computação** pela UFPel.
+
+Sou também **professor universitário na área de Computação**, atuando no ensino e pesquisa sobre desenvolvimento de software, programação e modelagem computacional.
 
 Um pouco mais sobre mim:
 
-- 🔭 Atualmente estou me concentrando na pesquisa e desenvolvimento de um sistema de sensores para modelar uma equação que possa inferir a capacidade de salas de aula de acordo com os protocolos de distanciamento social em tempos de pandemia.
 - 🌱 Sempre estou em busca de novos conhecimentos e experimentando novas linguagens de programação e ferramentas.
 - 👯 Adoro colaborar e aplicar a computação em outras áreas, é extremamente gratificante ver a computação realizar tarefas complexas de maneira simples.
 - 🚀 Sou proficiente nas seguintes tecnologias (linguagens de programação):
